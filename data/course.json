@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Telecommunications"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Networks"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ]
+  ],
+  "legacy_uid": "cae6ba5a-e66f-79ba-6167-710edb6112d0",
+  "instructors": {
+    "content": [
+      "b5423f30-4e6d-7c06-9c23-3e0c56a880c6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "620a0b98-b718-b035-6001-21896b74db4b",
+    "website": "6-973-communication-system-design-spring-2006"
+  },
+  "course_title": "Communication System Design",
+  "course_description": "This course presents a top-down approach to communications system design. The course will cover communication theory, algorithms and implementation architectures for essential blocks in modern physical-layer communication systems (coders and decoders, filters, multi-tone modulation, synchronization sub-systems). The course is hands-on, with a project component serving as a vehicle for study of different communication techniques, architectures and implementations. This year, the project is focused on WLAN transceivers. At the end of the course, students will have gone through the complete WLAN System-On-a-Chip design process, from communication theory, through algorithm and architecture all the way to the synthesized standard-cell RTL chip representation.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.973",
+  "course_image_thumbnail": {
+    "content": "2f2e7fd9-439c-1b96-4b65-2c24ee63163e",
+    "website": "6-973-communication-system-design-spring-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "61a75ce6-b024-4d42-9c56-05f294dc8d63",
+  "site_short_id": "6.973-spring-2006",
+  "title": "Course Metadata"
+}
